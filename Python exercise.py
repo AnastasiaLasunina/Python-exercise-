@@ -6,7 +6,7 @@ Created on Fri Oct 26 14:35:38 2018
 @author: Anastasia
 """
 #%%
-def linear(lst, numb):
+def linear(lst, num):
     for i in range(len(lst)):
         if lst[i] == num:
             return i 
